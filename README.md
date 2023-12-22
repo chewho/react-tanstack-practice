@@ -1,5 +1,15 @@
 # React + Vite
 
+## Available Scripts
+
+In the backend folder, you should run:
+
+### `npm start`
+
+In the project directory, you should run:
+
+### `npm run dev`
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
